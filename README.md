@@ -27,7 +27,7 @@ Outside the terminal, I'm usually mapping out solution architectures, cooking, r
 * **Languages:** `Python` • `SQL` • `Bash` • `Apps Script`
 * **Engineering:** `Databricks (Delta/Unity)` • `dbt` • `Airflow` • `Pandas`
 * **Infrastructure:** `PostgreSQL` • `Oracle` • `Docker` • `AWS Networking`
-* **BI & DevOps:** `Looker` • `Power BI` • `GitHub Actions` • `Git` • `Ubuntu`
+* **BI & DevOps:** `Looker` • `Power BI` • `Grafana` • `GitHub Actions` • `Git` • `Ubuntu`
 
 ---
 
