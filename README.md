@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Data Engineer focused on bridging the gap between raw data and business decisions. I specialize in the end-to-end data lifecycle, relying on a strict "learn by doing" philosophy to build robust pipelines that turn theory into real-world impact. 
+I'm a person who started the journey from warehouse floors, now moving toward something I'm passionate about that makes me happy when I do it. I’ve always gone out of my way to build tools that my team actually needs, and I learn best by jumping in and figuring things out hands-on. Now, I’m looking to join a dedicated data team where I can contribute my practical experience, tackle harder challenges, and keep learning from the people around me.
 
 Outside the terminal, I'm usually mapping out solution architectures, cooking, reading for depth, or exploring my newly discovered passion for orchestral concerts 🎻.
 
