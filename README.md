@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Hi, I'm Hari Prasanna </h1>
-
 <div align="center">
   <a href="mailto:hariprasannaravichandran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -16,9 +15,17 @@
 
 ### 👨‍💻 About Me
 
-I'm a person who started the journey from warehouse floors, now moving toward something I'm passionate about that makes me happy when I do it. I’ve always gone out of my way to build tools that my team actually needs, and I learn best by jumping in and figuring things out hands-on. Now, I’m looking to join a dedicated data team where I can contribute my practical experience, tackle harder challenges, and keep learning from the people around me.
+I'm a person who started the journey from warehouse floors, now moving toward something I'm passionate about that makes me happy when I do it. I've always gone out of my way to build tools that my team actually needs, and I learn best by jumping in and figuring things out hands-on. Now, I'm looking to join a dedicated data team where I can contribute my practical experience, tackle harder challenges, and keep learning from the people around me.
 
 Outside the terminal, I'm usually mapping out solution architectures, cooking, reading for depth, or exploring my newly discovered passion for orchestral concerts 🎻.
+
+---
+
+### 🏅 Certifications
+
+<a href="https://credentials.databricks.com/2074b6bd-81e2-4c3d-ad0f-3dbf25c81c13#acc.gA0OCEzD">
+  <img src="https://img.shields.io/badge/Databricks-Data_Engineering_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Engineering Associate" />
+</a>
 
 ---
 
