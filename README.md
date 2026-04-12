@@ -35,12 +35,3 @@ Outside the terminal, I'm usually mapping out solution architectures, cooking, r
 * **Engineering:** `Databricks (Delta/Unity)` • `dbt` • `Airflow` • `Pandas`
 * **Infrastructure:** `PostgreSQL` • `Oracle` • `Docker` • `AWS Networking`
 * **BI & DevOps:** `Looker` • `Power BI` • `Grafana` • `GitHub Actions` • `Git` • `Ubuntu`
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hari-prasanna&theme=dark&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-prasanna&theme=dark&hide_border=true" height="150" />
-</div>
