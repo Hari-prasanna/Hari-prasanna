@@ -9,6 +9,9 @@
   <a href="https://github.com/Hari-prasanna/Data-Analytics-engineering-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.notion.so/Portfolio-Projects-34795a3c9a568076a28ee0709e8a30e2?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
 </div>
 
 ---
