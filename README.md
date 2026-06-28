@@ -18,7 +18,7 @@ Outside the terminal, I'm usually mapping out solution architectures, cooking, r
 
 * **Data:** SQL, Python, dbt, Databricks, Delta Lake, Pandas
 * **Databases:** PostgreSQL, Oracle
-* **BI & Reporting:** Looker Studio, Grafana, Power BI basics
+* **BI & Reporting:** Looker Studio, Grafana basics, Power BI basics
 * **Engineering:** Docker, GitHub Actions, Git, Bash, AWS fundamentals
 * **Domain:** Logistics operations, reporting automation, data quality, KPI workflows
 
