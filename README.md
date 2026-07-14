@@ -1,4 +1,4 @@
-<h1 align="center">Hari Prasanna Ravichandran</h1> <p align="center"> Operations Data Specialist → Analytics Engineering / Junior Data Engineering<br> SQL • Databricks • dbt • Python • Logistics Data Automation </p>
+<h1 align="center">Hari Prasanna Ravichandran</h1>
 
 <p align="center"> <a href="mailto:hariprasannaravichandran@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/hariprasannaravichandran/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Hari-prasanna/Data-Analytics-engineering-portfolio"> <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /> </a> </p>
 
@@ -6,21 +6,11 @@
 
 ### About Me
 
-I work in logistics operations and have moved into data automation, reporting, and pipeline development. 
+I work in logistics operations and have transitioned into data automation, reporting, and pipeline development through self-teaching. 
 
-My focus is turning operational problems into practical data solutions: SQL reports, Databricks jobs, Google Sheets and Apps Script automations, Looker Studio dashboards, and stakeholder-facing KPI workflows. 
+As these tools evolve, I prefer to focus on fundamentals, engineering best practices, and learning from past failures, while always exploring the 99 ways a process might go wrong. 
 
-Outside the terminal, I'm usually mapping out solution architectures, cooking, reading for depth, or exploring my newly discovered passion for orchestral concerts.
-
----
-
-### Tech Stack
-
-* **Data:** SQL, Python, dbt, Databricks, Delta Lake, Pandas
-* **Databases:** PostgreSQL, Oracle
-* **BI & Reporting:** Looker Studio, Grafana basics, Power BI basics
-* **Engineering:** Docker, GitHub Actions, Git, Bash, AWS fundamentals
-* **Domain:** Logistics operations, reporting automation, data quality, KPI workflows
+Outside the terminal, I'm usually mapping out solution architectures, cooking, reading, or exploring my newfound interest in coffee.
 
 ---
 
